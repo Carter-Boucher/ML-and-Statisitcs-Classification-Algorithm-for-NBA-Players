@@ -1,5 +1,6 @@
 # ML-and-Statisitcs-Classification-Algorithm-for-NBA-Players
 Simple machine learning classification model for an NBA players position based on shot percentage‘s using Python and Pandas.
+K value classifier used vs the accuracy of the training set and the test set:
 
 <img width="399" alt="622db3e4-bb8d-4ced-9ca5-0f88b355ec34" src="https://user-images.githubusercontent.com/91107914/150234554-43205f3c-78a6-49ff-8b6d-92ac6c6f92d5.png">
 
